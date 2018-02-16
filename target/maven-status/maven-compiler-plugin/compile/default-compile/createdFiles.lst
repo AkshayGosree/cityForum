@@ -1,0 +1,9 @@
+com\procrastinate\city\forum\dao\HomePageDaoImpl.class
+com\procrastinate\city\forum\service\HomePageServiceImpl.class
+com\procrastinate\city\forum\dao\HomePageDao.class
+com\procrastinate\city\forum\configuration\AppInitializer.class
+com\procrastinate\city\forum\model\Topics.class
+com\procrastinate\city\forum\configuration\HibernateConfiguration.class
+com\procrastinate\city\forum\configuration\AppConfig.class
+com\procrastinate\city\forum\controller\HomePageController.class
+com\procrastinate\city\forum\service\HomePageService.class
