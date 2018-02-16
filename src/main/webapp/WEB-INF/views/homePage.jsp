@@ -26,7 +26,7 @@
 	
 	<script>
 		function signUpMethod() {
-			alert("sign up logic to be added");
+			alert("sign up logic to be added!!");
 		}
 	</script>
 </body>
